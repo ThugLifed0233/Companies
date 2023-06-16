@@ -1,0 +1,154 @@
+index,Category,Sub-Category,Company
+0,C2C,F2F,Western Union
+1,C2C,F2F,Wise
+2,C2C,F2F,PayPal
+3,C2C,F2F,Venmo
+4,C2C,F2F,Google Pay (Global)
+5,C2C,Fiat to Crypto,Simplex
+6,C2C,Fiat to Crypto,Kraken
+7,C2C,Fiat to Crypto,Binance
+8,C2C,Crypto to Fiat,Moon Pay
+9,C2C,Crypto to Fiat,Binance
+10,C2C,Crypto to Fiat,Coinbase
+11,C2C,Crypto to Fiat,Bitpay
+12,C2C,Crypto to Crypto,Crypto
+13,C2C,Crypto to Crypto,Binance
+14,C2C,Crypto to Crypto,Coinbase
+15,C2C,Crypto to Crypto,Kriptomat
+16,C2C,Crypto to Crypto,Connext Bridge (Cross Chain)
+17,C2C,Crypto to Crypto,Circle (Cross Chain)
+18,C2C,Crypto to Crypto,Celer C Bridge (Cross Chain)
+19,C2C,Crypto to Crypto,Multichain (Cross Chain)
+20,C2Br,F2F,Razorpay
+21,C2Br,F2F,Paytm
+22,C2Br,F2F,PayPal
+23,C2Br,F2F,Apple Pay
+24,C2Br,F2F,Google Pay (Global)
+25,C2Br,Fiat to Crypto,Alchemy Pay
+26,C2Br,Fiat to Crypto,cryptocoin
+27,C2Br,Fiat to Crypto,BitPay
+28,C2Br,Fiat to Crypto,CoinBase Commerce
+29,C2Br,Crypto to Fiat,Bitpay
+30,C2Br,Crypto to Fiat,Monei
+31,C2Br,Crypto to Fiat,BitPay
+32,C2Br,Crypto to Fiat,CoinBase Commerce
+33,C2Br,Crypto to Crypto,Bitpay
+34,C2Br,Crypto to Crypto,Stripe
+35,C2Br,Crypto to Crypto,BitPay
+36,C2Br,Crypto to Crypto,Stripe
+37,C2Br,Crypto to Crypto,Crossmint (Cross Chain)
+38,C2Br,Crypto to Crypto,use winter (Cross Chain)
+39,C2Br,Crypto to Crypto,Utrust (Cross Chain)
+40,C2Br,Crypto to Crypto,Simplex (Cross Chain)
+41,B2B,F2F,Razorpay
+42,B2B,F2F,Paytm
+43,B2B,F2F,PayPal
+44,B2B,F2F,Apple Pay
+45,B2B,F2F,Google Pay (Global)
+46,B2B,Fiat to Crypto,Alchemy Pay
+47,B2B,Fiat to Crypto,cryptocoin
+48,B2B,Fiat to Crypto,BitPay
+49,B2B,Fiat to Crypto,CoinBase Commerce
+50,B2B,Crypto to Fiat,Bitpay
+51,B2B,Crypto to Fiat,Monei
+52,B2B,Crypto to Fiat,BitPay
+53,B2B,Crypto to Fiat,CoinBase Commerce
+54,B2B,Crypto to Crypto,Bitpay
+55,B2B,Crypto to Crypto,Stripe
+56,B2B,Crypto to Crypto,BitPay
+57,B2B,Crypto to Crypto,Stripe
+58,B2B,Crypto to Crypto,Crossmint (Cross Chain)
+59,B2B,Crypto to Crypto,use winter (Cross Chain)
+60,B2B,Crypto to Crypto,Utrust (Cross Chain)
+61,B2B,Crypto to Crypto,Simplex (Cross Chain)
+62,B2C,F2F,Stripe
+63,B2C,F2F,Google Pay (Global)
+64,B2C,Fiat to Crypto,Alchemy Pay
+65,B2C,Fiat to Crypto,cryptocoin
+66,B2C,Fiat to Crypto,CoinBase Commerce
+67,B2C,Fiat to Crypto,coinfy
+68,B2C,Crypto to Fiat,B2Bpay
+69,B2C,Crypto to Fiat,Alchemy Pay
+70,B2C,Crypto to Fiat,B2Bpay
+71,B2C,Crypto to Fiat,Stripe
+72,B2C,Crypto to Crypto,Stripe
+73,B2C,Crypto to Crypto,Get Orbital
+74,B2C,Crypto to Crypto,BitPay
+75,B2C,Crypto to Crypto,CoinBase Commerce
+76,B2C,Crypto to Crypto,Crossmint (Cross Chain)
+77,B2C,Crypto to Crypto,Whitpaper (Cross Chain)
+78,B2C,Crypto to Crypto,Utrust (Cross Chain)
+79,B2C,Crypto to Crypto,Simplex (Cross Chain)
+80,Global Strategic,NA,Azimo Limited
+81,Global Strategic,NA,Digital Wallet Corporation
+82,Global Strategic,NA,Flywire
+83,Global Strategic,NA,InstaReM Pvt. Ltd.
+84,Global Strategic,NA,MoneyGram
+85,Global Strategic,NA,"PayPal Holdings, Inc."
+86,Global Strategic,NA,"Remitly, Inc."
+87,Global Strategic,NA,Ria Financial Services Ltd.
+88,Global Strategic,NA,Ripple.
+89,Global Strategic,NA,SingX Pte Ltd.
+90,Global Strategic,NA,TNG Wallet
+91,Global Strategic,NA,TransferGo Ltd.
+92,Global Strategic,NA,TransferWise Ltd.
+93,Global Strategic,NA,"Western Union Holdings, Inc."
+94,Global Strategic,NA,WorldRemit Ltd.
+95,Global Digital Payments Market Key Players,NA,Aliant Payments
+96,Global Digital Payments Market Key Players,NA,Aurus Inc.
+97,Global Digital Payments Market Key Players,NA,Adyen
+98,Global Digital Payments Market Key Players,NA,Financial Software & Systems Pvt. Ltd.
+99,Global Digital Payments Market Key Players,NA,PayPal Holdings Inc.
+100,Global Digital Payments Market Key Players,NA,Novatti Group Pty Ltd.
+101,Global Digital Payments Market Key Players,NA,"ACI Worldwide, Inc."
+102,Global Digital Payments Market Key Players,NA,Global Payments Inc.
+103,Global Digital Payments Market Key Players,NA,Wirecard
+104,Global Digital Payments Market Key Players,NA,Authorize.net
+105,Global Digital Payments Market Key Players,NA,"Total System Services, Inc."
+106,Indian Payment Market Leaders,NA,Visa
+107,Indian Payment Market Leaders,NA,Mastercard
+108,Indian Payment Market Leaders,NA,PhonePe
+109,Indian Payment Market Leaders,NA,Google Pay
+110,Indian Payment Market Leaders,NA,RuPay
+111,Cryptocurrency Related Companies,NA,Bitfinex
+112,Cryptocurrency Related Companies,NA,Gate.io
+113,Cryptocurrency Related Companies,NA,Bitget
+114,Cryptocurrency Related Companies,NA,L Bank
+115,Key Players in Global Cryptocurrency Market,NA,"Advanced Micro Devices, Inc."
+116,Key Players in Global Cryptocurrency Market,NA,Binance
+117,Key Players in Global Cryptocurrency Market,NA,Bit fury Group Limited
+118,Key Players in Global Cryptocurrency Market,NA,"Bit Go, Inc."
+119,Key Players in Global Cryptocurrency Market,NA,Bit Main Technologies Holding Company
+120,Key Players in Global Cryptocurrency Market,NA,Intel Corporation
+121,Key Players in Global Cryptocurrency Market,NA,NVIDIA Corporation
+122,Key Players in Global Cryptocurrency Market,NA,Ripple
+123,Key Players in Global Cryptocurrency Market,NA,Xapo Holdings Limited
+124,Key Players in Global Cryptocurrency Market,NA,"Xilinx, Inc."
+125,Acc Fundings Crypto Companies Found,NA,Stripe
+126,Acc Fundings Crypto Companies Found,NA,Robinhood
+127,Acc Fundings Crypto Companies Found,NA,Citadel Securities
+128,Acc Fundings Crypto Companies Found,NA,Figure
+129,Acc Fundings Crypto Companies Found,NA,NYDIG
+130,Acc Fundings Crypto Companies Found,NA,Trade Republic
+131,Acc Fundings Crypto Companies Found,NA,Revolut
+132,Newer companies 2018+ and are moving mad (market),NA,Celsius Network
+133,Newer companies 2018+ and are moving mad (market),NA,Nexo
+134,Newer companies 2018+ and are moving mad (market),NA,Blockdaemon
+135,Newer companies 2018+ and are moving mad (market),NA,Fireblocks
+136,Newer companies 2018+ and are moving mad (market),NA,Syndicate
+137,Newer companies 2018+ and are moving mad (market),NA,Abra
+138,Newer companies 2018+ and are moving mad (market),NA,Synthetix
+139,Newer companies 2018+ and are moving mad (market),NA,Chime
+140,Newer companies 2018+ and are moving mad (market),NA,Stash
+141,Newer companies 2018+ and are moving mad (market),NA,Acorns
+142,Newer companies 2018+ and are moving mad (market),NA,Wealthfront
+143,Newer companies 2018+ and are moving mad (market),NA,Betterment
+144,Newer companies 2018+ and are moving mad (market),NA,Luno
+145,Newer companies 2018+ and are moving mad (market),NA,Paxos
+146,Newer companies 2018+ and are moving mad (market),NA,Circle
+147,Newer companies 2018+ and are moving mad (market),NA,Compound
+148,Newer companies 2018+ and are moving mad (market),NA,Aave
+149,Newer companies 2018+ and are moving mad (market),NA,Plaid
+150,Newer companies 2018+ and are moving mad (market),NA,Stripe Atlas
+151,Newer companies 2018+ and are moving mad (market),NA,Truebill
+152,Newer companies 2018+ and are moving mad (market),NA,Upstart
